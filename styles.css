@@ -1,0 +1,13 @@
+button,
+.up-image {
+    display: flex;
+}
+
+button,
+.image-file,
+.up-image {
+    margin-top: 10px;
+}
+
+
+
